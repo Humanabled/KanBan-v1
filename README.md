@@ -1,2 +1,79 @@
-# KanBan-v1
-hello world!
+[01-conceptos-scrum.md](https://github.com/user-attachments/files/35327676/01-conceptos-scrum.md)
+# Conceptos clave de Scrum: roles y ceremonias
+
+## 1. ¿Qué es Scrum?
+
+Scrum es un marco de trabajo ágil que permite desarrollar productos complejos mediante ciclos cortos e iterativos llamados **Sprints**. Su objetivo es entregar valor de forma frecuente, inspeccionar los resultados y adaptar el trabajo según el aprendizaje y las necesidades del producto.
+
+Scrum se basa en el empirismo: el conocimiento se obtiene de la experiencia y las decisiones se toman a partir de lo observado. Sus pilares son:
+
+- **Transparencia:** el trabajo y su estado deben ser visibles y comprensibles.
+- **Inspección:** se revisan con frecuencia el progreso y los resultados para detectar problemas.
+- **Adaptación:** si se detecta una desviación, se ajustan el proceso o el trabajo cuanto antes.
+
+Los valores de Scrum son compromiso, foco, apertura, respeto y valentía.
+
+## 2. Responsabilidades y roles
+
+La Scrum Guide actual habla de un **Scrum Team** formado por Product Owner, Scrum Master y Developers. No son departamentos ni jefes: son responsabilidades complementarias dentro de un equipo pequeño, multifuncional y autogestionado.
+
+### Product Owner
+
+Es responsable de maximizar el valor del producto resultante del trabajo del Scrum Team. Sus responsabilidades incluyen desarrollar y comunicar el **Product Goal**, crear y ordenar los elementos del **Product Backlog**, hacer que este sea transparente y clarificar qué aporta valor. Puede delegar tareas relacionadas con la gestión del Product Backlog, pero sigue siendo responsable de sus resultados.
+
+### Scrum Master
+
+Es responsable de establecer Scrum tal como se define en la guía y de mejorar la efectividad del equipo. Ayuda a comprender Scrum, facilita que los eventos sean útiles, ayuda a eliminar impedimentos, promueve la autogestión y apoya a la organización en la adopción de Scrum. No es el jefe del equipo ni reparte tareas como un supervisor.
+
+### Developers (desarrolladores)
+
+Son las personas del Scrum Team comprometidas con crear cualquier aspecto de un Increment utilizable en cada Sprint. Crean el plan del Sprint (**Sprint Backlog**), mantienen la calidad mediante la **Definition of Done**, adaptan su plan diariamente hacia el Sprint Goal y se responsabilizan mutuamente como profesionales. Developers incluye a todas las personas que contribuyen a crear el producto, no solo programadores.
+
+## 3. Eventos o ceremonias de Scrum
+
+Scrum define cinco eventos: el Sprint y cuatro eventos que ocurren dentro de él.
+
+### Sprint
+
+Es el contenedor de todos los demás eventos. Tiene una duración fija de un mes o menos. Durante el Sprint se trabaja para alcanzar el **Sprint Goal**, no se realizan cambios que lo pongan en peligro, la calidad no disminuye y el Product Backlog se refina cuando es necesario. El alcance puede aclararse y renegociarse con el Product Owner a medida que se aprende.
+
+### Sprint Planning
+
+Inicia el Sprint y planifica el trabajo. El Scrum Team colabora para responder:
+1. **¿Por qué es valioso este Sprint?** Se define el Sprint Goal.
+2. **¿Qué se puede hacer en este Sprint?** Los Developers seleccionan elementos del Product Backlog.
+3. **¿Cómo se realizará el trabajo?** Los Developers planifican cómo convertir esos elementos en un Increment.
+
+Para un Sprint de un mes, el evento tiene un máximo de ocho horas; para Sprints más cortos suele ser proporcionalmente más breve.
+
+### Daily Scrum
+
+Es un evento de 15 minutos para los Developers. Sirve para inspeccionar el progreso hacia el Sprint Goal y adaptar el Sprint Backlog. No tiene por qué ser una ronda fija de respuestas: el equipo elige la estructura que mejor le ayude a crear un plan para el siguiente día.
+
+### Sprint Review
+
+Se celebra al final del Sprint para inspeccionar el resultado y determinar futuras adaptaciones. El Scrum Team presenta lo conseguido a los interesados, analiza cambios del entorno y colabora para decidir qué hacer después. No es únicamente una demostración ni una reunión de aprobación.
+
+### Sprint Retrospective
+
+Permite inspeccionar cómo ha ido el Sprint en cuanto a personas, interacciones, procesos, herramientas y Definition of Done. El equipo identifica mejoras concretas para aumentar la calidad y la efectividad.
+
+## 4. Artefactos y compromisos
+
+| Artefacto | Qué contiene | Compromiso asociado |
+|---|---|---|
+| Product Backlog | Lista ordenada y evolutiva de lo necesario para mejorar el producto | Product Goal |
+| Sprint Backlog | Sprint Goal, elementos seleccionados y plan para entregarlos | Sprint Goal |
+| Increment | Resultado utilizable que cumple la Definition of Done | Definition of Done |
+
+## 5. Ejemplo
+
+Un equipo desarrolla una tienda online y trabaja en Sprints de dos semanas. En Sprint Planning acuerda como Sprint Goal permitir que un cliente añada productos al carrito. Durante el Sprint, los Developers actualizan su plan en la Daily Scrum. En la Sprint Review enseñan el carrito funcional y recogen comentarios. En la Retrospective acuerdan mejorar las pruebas automatizadas para el siguiente Sprint.
+
+## Resumen
+
+Scrum organiza el trabajo mediante Sprints y se apoya en responsabilidades claras, eventos periódicos y artefactos transparentes. Product Owner maximiza el valor, Scrum Master ayuda a que Scrum funcione y Developers crean el Increment. La inspección y adaptación continuas permiten aprender y mejorar.
+
+## Fuentes
+- Schwaber, K. y Sutherland, J. (2020). [La Guía Scrum](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Spanish.pdf).
+- [Scrum Guides — página oficial](https://scrumguides.org/).
